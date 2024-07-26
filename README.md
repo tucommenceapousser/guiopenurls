@@ -4,7 +4,7 @@
 
 **Trhacknon URL Opener** est une application GUI hautement stylisée qui permet de sélectionner des fichiers `.txt` contenant des URLs, et d'ouvrir ces URLs dans des onglets de navigateur. Conçu avec un style psychédélique et vibrant, cette application offre une expérience utilisateur à la fois visuelle et fonctionnelle.
 
-![Logo](https://example.com/path_to_your_logo.png) <!-- Remplacez par l'URL de votre logo -->
+![Logo](https://h.top4top.io/p_3129m3dbb0.png) <!-- Remplacez par l'URL de votre logo -->
 
 ## 🛠 Fonctionnalités
 
@@ -30,18 +30,28 @@ pip install requests pillow
 
 ## 🏗 Installation
 
-1. **Clonez le dépôt** ou téléchargez le fichier source.
+1. **Clonez le dépôt** depuis GitHub :
 
-2. **Installez les dépendances** nécessaires en utilisant pip :
+    ```bash
+    git clone https://github.com/rainbowhatrkn/openurlsgui
+    ```
+
+2. **Accédez au répertoire du projet** :
+
+    ```bash
+    cd openurlsgui
+    ```
+
+3. **Installez les dépendances** nécessaires en utilisant pip :
 
     ```bash
     pip install requests pillow
     ```
 
-3. **Exécutez l'application** :
+4. **Exécutez l'application** :
 
     ```bash
-    python your_script_name.py
+    python main.py
     ```
 
 ## 📄 Utilisation
@@ -54,6 +64,12 @@ pip install requests pillow
 ## 🔗 Lien de l'application
 
 Vous pouvez accéder à l'application directement sur Replit en suivant ce lien : [Trhacknon URL Opener](https://replit.com/@trkn/openurlsgui)
+
+## 🔄 Cloner sur Replit
+
+Pour cloner ce dépôt directement sur Replit, cliquez sur le bouton ci-dessous :
+
+[![Clone on Replit](https://replit.com/badge/github/rainbowhatrkn/openurlsgui)](https://replit.com/@trkn/openurlsgui)
 
 ## 📸 Capture d'Écran
 
