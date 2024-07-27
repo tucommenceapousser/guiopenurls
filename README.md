@@ -4,7 +4,7 @@
 
 **Trhacknon URL Opener** est une application GUI hautement stylisée qui permet de sélectionner des fichiers `.txt` contenant des URLs, et d'ouvrir ces URLs dans des onglets de navigateur. Conçu avec un style psychédélique et vibrant, cette application offre une expérience utilisateur à la fois visuelle et fonctionnelle.
 
-![Logo](https://h.top4top.io/p_3129m3dbb0.png) <!-- Remplacez par l'URL de votre logo -->
+![Logo](https://h.top4top.io/p_3129m3dbb0.png) 
 
 ## 🛠 Fonctionnalités
 
@@ -33,7 +33,7 @@ pip install requests pillow
 1. **Clonez le dépôt** depuis GitHub :
 
     ```bash
-    git clone https://github.com/rainbowhatrkn/openurlsgui
+    git clone https://github.com/tucommenceapousser/guiopenurls
     ```
 
 2. **Accédez au répertoire du projet** :
@@ -69,11 +69,11 @@ Vous pouvez accéder à l'application directement sur Replit en suivant ce lien 
 
 Pour cloner ce dépôt directement sur Replit, cliquez sur le bouton ci-dessous :
 
-[![Clone on Replit](https://replit.com/badge/github/rainbowhatrkn/openurlsgui)](https://replit.com/@trkn/openurlsgui)
+[![Clone on Replit](https://replit.com/badge/github.com/tucommenceapousser/guiopenurls)](https://replit.com/@trkn/openurlsgui)
 
 ## 📸 Capture d'Écran
 
-![Screenshot](https://example.com/path_to_screenshot.png) <!-- Remplacez par l'URL de votre capture d'écran -->
+![Screenshot](https://l.top4top.io/p_31294utsg0.jpg) 
 
 ## 👨‍💻 Développeur
 
