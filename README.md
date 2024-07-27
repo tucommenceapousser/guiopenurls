@@ -33,7 +33,7 @@ pip install requests pillow
 1. **Clonez le dépôt** depuis GitHub :
 
     ```bash
-    git clone https://github.com/tucommenceapousser/guiopenurls
+    git clone https://github.com/tucommenceapousser/openurlsgui
     ```
 
 2. **Accédez au répertoire du projet** :
@@ -69,7 +69,7 @@ Vous pouvez accéder à l'application directement sur Replit en suivant ce lien 
 
 Pour cloner ce dépôt directement sur Replit, cliquez sur le bouton ci-dessous :
 
-[![Clone on Replit](https://replit.com/badge/github.com/tucommenceapousser/guiopenurls)](https://replit.com/@trkn/openurlsgui)
+[![Clone on Replit](https://replit.com/badge/github.com/tucommenceapousser/openurlsgui)](https://replit.com/@trkn/openurlsgui)
 
 ## 📸 Capture d'Écran
 
